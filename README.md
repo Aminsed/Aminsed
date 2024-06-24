@@ -25,8 +25,6 @@
         <br>OpenCV
         <br><sub><a href="https://courses.opencv.org/certificates/70e99b41591e4f5db8775ebfb91f5863">CV & DL in C++</a></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img width="70" src="https://img.icons8.com/color/48/000000/nvidia.png" alt="NVIDIA Icon"/>
         <br>NVIDIA
@@ -39,10 +37,6 @@
         <img width="70" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes Icon"/>
         <br>Kubernetes
         <br><sub><a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f5f29669-3c65-4fd1-ba5c-fad977a42014-amin-sedaghat-450c7e0c-bf4a-4ea7-a80f-7f2bc5d54d73-certificate.pdf">Administrator</a></sub>
-      </td>
-      <td align="center" colspan="2">
-        <h3>Machine Learning Architect</h3>
-        <p>Specialized in Cloud, ML, CV, and HPC</p>
       </td>
     </tr>
   </table>
