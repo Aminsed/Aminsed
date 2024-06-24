@@ -1,4 +1,4 @@
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Professional Certifications</h2>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Certifications</h2>
 
 <div style="background: linear-gradient(to right, #f7f7f7, #e6e6e6); padding: 20px; border-radius: 10px;">
   <table align="center" style="width: 100%; max-width: 800px; margin: 0 auto;">
