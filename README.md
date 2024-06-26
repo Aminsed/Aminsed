@@ -9,7 +9,7 @@
         <br>
         <sub><a href="https://www.credential.net/b5b51cc4-b3fa-4e04-9fbf-b07d2f57c787key=99876cf8adeb733170041c7ae6a87be244912356b51b572de22f2597354d0281">ML Engineer</a></sub>
         <br>
-        <sub><a href="https://www.credly.com/earner/earned/badge/4d506db3-e1d7-42cb-b6e1-0358955089ad">Data Engineer</a></sub>
+        <sub><a href="https://www.credly.com/badges/4d506db3-e1d7-42cb-b6e1-0358955089ad/public_url">Data Engineer</a></sub>
       </td>
       <td align="center" style="padding: 15px;">
         <img width="70" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Icon"/>
