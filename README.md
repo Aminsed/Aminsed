@@ -17,7 +17,7 @@
         <br>
         <sub><a href="https://www.credly.com/badges/5d45db0e-70ec-42a9-bbef-0683c2e0f102">ML Specialist</a></sub>
         <br>
-        <sub><a href="https://www.credly.com/earner/earned/badge/84ac7ca2-5fca-4e09-ae54-7c82ae4ebaae">Data Analytics</a></sub>
+        <sub><a href="https://www.credly.com/badges/84ac7ca2-5fca-4e09-ae54-7c82ae4ebaae/public_url">Data Analytics</a></sub>
       </td>
       <td align="center" style="padding: 15px;">
         <img width="70" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow Icon"/>
