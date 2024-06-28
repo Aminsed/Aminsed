@@ -1,5 +1,4 @@
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Certifications</h2>
-
 <div style="background: linear-gradient(to right, #f7f7f7, #e6e6e6); padding: 20px; border-radius: 10px;">
   <table align="center" style="width: 100%; max-width: 800px; margin: 0 auto;">
     <tr>
@@ -18,6 +17,12 @@
         <sub><a href="https://www.credly.com/badges/5d45db0e-70ec-42a9-bbef-0683c2e0f102">ML Specialist</a></sub>
         <br>
         <sub><a href="https://www.credly.com/badges/84ac7ca2-5fca-4e09-ae54-7c82ae4ebaae/public_url">Data Analytics</a></sub>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img width="70" src="https://images.credly.com/size/220x220/images/a9b02635-e18f-4eff-a5da-1b3524555651/image.png" alt="Intel Icion"/>
+        <br><b>Intel</b>
+        <br>
+        <sub><a href="https://www.credly.com/badges/95a57f92-eaa5-4cb9-a47b-0e3459cac805/public_url">MLOps Professional</a></sub>
       </td>
       <td align="center" style="padding: 15px;">
         <img width="70" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow Icon"/>
