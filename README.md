@@ -18,7 +18,7 @@
         <sub><a href="https://www.credly.com/badges/84ac7ca2-5fca-4e09-ae54-7c82ae4ebaae/public_url">Data Analytics</a></sub>
       </td>
       <td align="center" style="padding: 15px;">
-        <img width="70" src="https://databricks.com/wp-content/uploads/2021/10/favicon.png" alt="Databricks Icon"/>
+        <img width="70" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/databrickslogo-freelogovectors.net_.png" alt="Databricks Icon"/>
         <br><b>Databricks</b>
         <br>
         <sub><a href="https://credentials.databricks.com/256596d8-a7e5-424b-875e-fe95f6dc2cfb">ML Professional</a></sub>
