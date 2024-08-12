@@ -18,7 +18,13 @@
         <sub><a href="https://www.credly.com/badges/84ac7ca2-5fca-4e09-ae54-7c82ae4ebaae/public_url">Data Analytics</a></sub>
       </td>
       <td align="center" style="padding: 15px;">
-        <img width="70" src="https://images.credly.com/size/220x220/images/a9b02635-e18f-4eff-a5da-1b3524555651/image.png" alt="Intel Icion"/>
+        <img width="70" src="https://databricks.com/wp-content/uploads/2021/10/favicon.png" alt="Databricks Icon"/>
+        <br><b>Databricks</b>
+        <br>
+        <sub><a href="https://credentials.databricks.com/256596d8-a7e5-424b-875e-fe95f6dc2cfb">ML Professional</a></sub>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img width="70" src="https://images.credly.com/size/220x220/images/a9b02635-e18f-4eff-a5da-1b3524555651/image.png" alt="Intel Icon"/>
         <br><b>Intel</b>
         <br>
         <sub><a href="https://www.credly.com/badges/95a57f92-eaa5-4cb9-a47b-0e3459cac805/public_url">MLOps Professional</a></sub>
