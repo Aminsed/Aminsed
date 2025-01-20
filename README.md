@@ -10,6 +10,8 @@
       <td align="center" style="padding: 15px;">
         <img width="70" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Icon"/>
         <br><b>AWS</b>
+        <br>
+        <br>
         <sub><a href="https://www.credly.com/badges/f58e9c69-e55d-4c69-a938-72bde701cf98">Solutions Architect Professional</a></sub>
       </td>
       <td align="center" style="padding: 15px;">
