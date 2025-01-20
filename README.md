@@ -6,27 +6,17 @@
         <br><b>GCP</b>
         <br>
         <sub><a href="https://www.credly.com/badges/5720c6b7-09dd-4cab-901f-fed343704f94/public_url">ML Engineer</a></sub>
-        <br>
-        <sub><a href="https://www.credly.com/badges/4d506db3-e1d7-42cb-b6e1-0358955089ad/public_url">Data Engineer</a></sub>
       </td>
       <td align="center" style="padding: 15px;">
         <img width="70" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Icon"/>
         <br><b>AWS</b>
-        <br>
-        <sub><a href="https://www.credly.com/badges/5d45db0e-70ec-42a9-bbef-0683c2e0f102">ML Specialist</a></sub>
-        <br>
+        <sub><a href="https://www.credly.com/badges/f58e9c69-e55d-4c69-a938-72bde701cf98">Solutions Architect Professional</a></sub>
       </td>
       <td align="center" style="padding: 15px;">
         <img width="70" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/databrickslogo-freelogovectors.net_.png" alt="Databricks Icon"/>
         <br><b>Databricks</b>
         <br>
         <sub><a href="https://credentials.databricks.com/256596d8-a7e5-424b-875e-fe95f6dc2cfb">ML Professional</a></sub>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img width="70" src="https://images.credly.com/size/220x220/images/a9b02635-e18f-4eff-a5da-1b3524555651/image.png" alt="Intel Icon"/>
-        <br><b>Intel</b>
-        <br>
-        <sub><a href="https://www.credly.com/badges/95a57f92-eaa5-4cb9-a47b-0e3459cac805/public_url">MLOps Professional</a></sub>
       </td>
       <td align="center" style="padding: 15px;">
         <img width="70" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow Icon"/>
@@ -46,11 +36,7 @@
         <br>
         <sub><a href="https://learn.nvidia.com/certificates?id=fc37af23e17940028b3bb8221c78f2ea">CUDA C/C++</a></sub>
         <br>
-        <sub><a href="https://learn.nvidia.com/certificates?id=99Gp24-MT0GPtdXmyQ_kHw">Concurrent Streams</a></sub>
-        <br>
         <sub><a href="https://learn.nvidia.com/certificates?id=rpIVcJyMRVeAE4wk5PWokA">DL for CV</a></sub>
-        <br>
-        <sub><a href="https://learn.nvidia.com/certificates?id=Ea6TWlY6RsiIcAtl3OvIBQ">OpenACC</a></sub>
       </td>
       <td align="center" style="padding: 15px;">
         <img width="70" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes Icon"/>
