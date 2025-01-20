@@ -1,32 +1,32 @@
 <div align="center">
-  <table style="border-collapse: collapse; margin-left: auto; margin-right: auto; width: 100%; max-width: 800px;">
+  <table style="border-collapse: collapse; margin-left: auto; margin-right: auto; max-width: 800px;">
     <thead>
       <tr>
-        <th style="padding: 10px; text-align: center; width: 14.28%;">
+        <th style="padding: 10px; text-align: center;">
           <img width="70" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="GCP Icon"/>
           <br><b>GCP</b>
         </th>
-        <th style="padding: 10px; text-align: center; width: 14.28%;">
+        <th style="padding: 10px; text-align: center;">
           <img width="70" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Icon"/>
           <br><b>AWS</b>
         </th>
-         <th style="padding: 10px; text-align: center; width: 14.28%;">
+         <th style="padding: 10px; text-align: center;">
           <img width="70" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/databrickslogo-freelogovectors.net_.png" alt="Databricks Icon"/>
           <br><b>Databricks</b>
         </th>
-        <th style="padding: 10px; text-align: center; width: 14.28%;">
+        <th style="padding: 10px; text-align: center;">
           <img width="70" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow Icon"/>
           <br><b>TensorFlow</b>
         </th>
-        <th style="padding: 10px; text-align: center; width: 14.28%;">
+        <th style="padding: 10px; text-align: center;">
           <img width="70" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.png" alt="OpenCV Icon"/>
           <br><b>OpenCV</b>
         </th>
-         <th style="padding: 10px; text-align: center; width: 14.28%;">
+         <th style="padding: 10px; text-align: center;">
           <img width="70" src="https://img.icons8.com/color/48/000000/nvidia.png" alt="NVIDIA Icon"/>
           <br><b>NVIDIA</b>
         </th>
-        <th style="padding: 10px; text-align: center; width: 14.28%;">
+        <th style="padding: 10px; text-align: center;">
           <img width="70" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes Icon"/>
           <br><b>Kubernetes</b>
         </th>
