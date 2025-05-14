@@ -40,16 +40,15 @@
               ML Engineer
             </a>
           </sub>
-          <br> {/* Added line break */}
+          <br>
           <sub>
             <a href="https://www.credly.com/badges/f4b4fb34-1462-49b0-bb65-3230d48b65f0/public_url">
-              Professional Cloud<br>Architect {/* Added new cert with optional line break for title */}
+              Cloud Architect<br>Professional
             </a>
           </sub>
         </td>
         <td style="border:1px solid #ccc; text-align:center; vertical-align:middle; padding:10px;">
           <sub>
-            <!-- Break up if needed -->
             <a href="https://www.credly.com/badges/f58e9c69-e55d-4c69-a938-72bde701cf98">
               Solutions Architect<br>Professional
             </a>
@@ -71,7 +70,6 @@
         </td>
         <td style="border:1px solid #ccc; text-align:center; vertical-align:middle; padding:10px;">
           <sub>
-            <!-- Example of optional line break -->
             <a href="https://courses.opencv.org/certificates/70e99b41591e4f5db8775ebfb91f5863">
               CV & DL<br>in C++
             </a>
